@@ -1,0 +1,14 @@
+C:\Users\1V4\source\repos\ConvBin\ConvBin\bin\Debug\net8.0\ConvBin.exe
+C:\Users\1V4\source\repos\ConvBin\ConvBin\bin\Debug\net8.0\ConvBin.deps.json
+C:\Users\1V4\source\repos\ConvBin\ConvBin\bin\Debug\net8.0\ConvBin.runtimeconfig.json
+C:\Users\1V4\source\repos\ConvBin\ConvBin\bin\Debug\net8.0\ConvBin.dll
+C:\Users\1V4\source\repos\ConvBin\ConvBin\bin\Debug\net8.0\ConvBin.pdb
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ConvBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ConvBin.AssemblyInfoInputs.cache
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ConvBin.AssemblyInfo.cs
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ConvBin.csproj.CoreCompileInputs.cache
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ConvBin.dll
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\refint\ConvBin.dll
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ConvBin.pdb
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ConvBin.genruntimeconfig.cache
+C:\Users\1V4\source\repos\ConvBin\ConvBin\obj\Debug\net8.0\ref\ConvBin.dll
